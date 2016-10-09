@@ -8,3 +8,4 @@ repositorio para guardar codigo
 
 
 * al final me quedo que en la linea 14 pone <table border=1> pero si lo quito no se veran las lineas de la tabla que hicimos por eso la dejo
+1
