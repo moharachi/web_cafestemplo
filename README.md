@@ -14,17 +14,9 @@ donde aparece la `descripcion, precios, imagenes y enlaces` del producto
 Enlaces:
 [cafe baqué](https://http://www.baque.com/")
 [cafe candela](https://http://http://www.cafescandelas.com/")
+[cafe comidista](https://elcomidista.elpais.com/elcomidista/2017/09/27/articulo/1506522721_155894.html/")
 
-###fallos al validar:
 
-Linea 1  Tenis escrito **< html >** i lo cambie por **< !DOCTYP html>**
 
-linea 13 Tenia un **< p >**
 
-linea 12  Tenia escrito **<img src="ejercicio\cafe-min.jpg">** i lo cambie por **<img src="images/cafe-min.jpg">**
 
-linea 22  Tenia escrito  **<td><img src="ejercicio\arab-min.jpg" Alt="cafe arabico"</td>** y lo cambie por **<td><img src="images/arab-min.jpg" Alt="cafe arabico"></td>**
-
-linea 27  Tenia escrito  **<td><img src="ejercicio\colomb.jpg" Alt="cafe colombiano"</td>** y lo cambie por **<td><img src="images/colomb.jpg" Alt="cafe colombiano"></td>**
-
-Al final me quedo que en la linea 14 pone **< table border=1 >** pero si lo quito no se veran las lineas de la tabla que hicimos por eso la dejo
